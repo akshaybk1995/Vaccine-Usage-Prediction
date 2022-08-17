@@ -8,9 +8,11 @@ Dataset Information:
 
 Column Description
 unique_id Unique identifier for each respondent
+
 h1n1_worry Worry about the h1n1 flu(0,1,2,3) 0=Not worried at 
 all, 1=Not very worried, 2=Somewhat worried, 3=Very 
 worried
+
 h1n1_awareness Signifies the amount of knowledge or understanding 
 the respondent has about h1n1 flu - (0,1,2) - 0=No 
 knowledge, 1=little knowledge, 2=good knowledge
