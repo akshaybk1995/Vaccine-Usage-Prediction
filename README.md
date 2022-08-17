@@ -121,7 +121,7 @@ no_of_adults Number of adults in the respondent's house (0,1,2,3) -
 (Yes, no) 
 
 no_of_children Number of children in the respondent's house(0,1,2,3) 
-- (Yes, No)
+
 
 TARGET --> h1n1_vaccine Dependent variable)Did the respondent received the 
 h1n1 vaccine or not(1,0) - (Yes, No)
